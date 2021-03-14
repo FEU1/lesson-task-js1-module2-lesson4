@@ -1,6 +1,6 @@
 # JavaScript 1 - Module 2
 
-## Lesson Task 4 Question
+## Lesson Task 4 Answer
 
 Using the HTML provided write code that does the following:
 
